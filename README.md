@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Julone
 - 👀 I’m interested in Code, Drawing, Gaming, etc.
-- 🌱 I’m currently learning Node.js.
-- 💞️ I’m looking to collaborate on JavaScript
+- 💞️ I’m looking to collaborate on JavaScript, Go
 - 📫 You can contact me with QQ: 183371456
 - ✨ Sincerely Yours
 
