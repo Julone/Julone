@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Julone
 - 👀 I’m interested in Code, Drawing, Gaming, etc.
 - 💞️ I’m looking to collaborate on JavaScript, Go
-- 📫 You can contact me with QQ: 183371456
+- 📫 Working at a game company
 - ✨ Sincerely Yours
